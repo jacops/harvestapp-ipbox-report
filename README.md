@@ -1,4 +1,4 @@
-# HarvestApp IP Box Rpoert
+# HarvestApp IP Box Report
 
 This simple script will help you create a yearly report for your `IP Box` tax relief from the HarvestApp entries.
 
