@@ -9,5 +9,5 @@ This simple script will help you create a yearly report for your `IP Box` tax re
 3. Install python dependencies via `pipenv`: `pipenv install`
 4. Run the script: `pipenv run python runner.py 2022` or simply `make run YEAR=2022`
 
-> The `HARVEST_IPBOXABLE_TASK_PHRASES` environmental variables takes comma separated values. 
+> The `HARVEST_IPBOXABLE_TASK_PHRASES` environmental variable takes comma separated values. 
 > Any of the provided phrases needs to be found in the Harvest task name in order to mark it as "ipboxable".
